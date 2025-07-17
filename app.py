@@ -1,3 +1,6 @@
+import os
+os.system("pip install joblib")
+import joblib
 import streamlit as st
 import joblib
 import numpy as np
